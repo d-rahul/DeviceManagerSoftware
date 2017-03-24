@@ -1,1 +1,1 @@
-# DevieManageSoftware
+# DeviceManagerSoftware
